@@ -4,7 +4,7 @@ from streamlit_router import StreamlitRouter
 from streamlit_option_menu import option_menu
 from supabase import create_client, Client
 import streamlit as st
-import hydralit_components as hc
+
 import datetime
 import cv2
 import csv
@@ -19,8 +19,6 @@ from mediapipe.framework.formats import landmark_pb2
 from FaceDetection import FaceDetector
 import datetime,time
 import pandas as pd
-from st_aggrid import AgGrid,GridOptionsBuilder
-import seaborn as sns
 
 url = "https://fzpvefiyomazymkowund.supabase.co"
 key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ6cHZlZml5b21henlta293dW5kIiwicm9sZSI6ImFub24iLCJpYXQiOjE2ODI4NTYyNjQsImV4cCI6MTk5ODQzMjI2NH0.qxmzEFCys_1i1Auln9xO1GRMpMYlznSo-qNjbLYK6cI"
