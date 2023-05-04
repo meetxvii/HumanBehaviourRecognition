@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "human-behaviour-recognition",
+  "private_key_id": "b464821fd01d0ffa7550073a577a90cccbf1a283",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCr2lIZSDZew4YU\nDEHOymvfHfAJwjwmmW3e/ku5yhegJHs1ikFK8+COYACpFeNOn+bcfX6ATLscb4+n\nPyzVq99Dp1AxqHt4q9Tn7lMbfR43LWu/uekdnABqunu6DjWfazTs0xrew8SeiNqZ\nqbBUbDyd6Y40wWoTWwzB7OosrncNvg0EMp0X5cCDiDcge3PphDm24BJAO4bLqmpb\nN8dPtDJBc5vkZ+AesOk8FfVqYO+SxGjBQtreD+AeQr0Dy1gfX2ysEoOzrSUgYnJs\n5q1a7De0MOyFO4NVADHVW9W4uWppv3XlO+Lk5nyb1MS+49IdoRYanilI3ohlbBDa\nHgA0uDArAgMBAAECggEAAm+UjeWdED86PF05imychBmXmqGFY75jIu/PF/i1tATA\nW8HY2O7p3P0MXn3AJWteFyCzYve8mlzLTvhae7Ei5YGqHGamvoXpj7csJa3QQZz2\nRhcScFFcHHBPPVz1Mp585OorG0MUrbwDSTS6US28be8ln4I8UeMzSLwdAwwe4OF2\n1uGsPMYfG1NAJvjxJTJsj9jAaii+CDZYJpPmX3iQuKf9CHBDoPLb0GUR7n7NRiHJ\nVvP8Y3lWZ1k4ZJbDF9PBCXp5orsNof6sirBez736bDjrqObRZSUm+wg467179rwV\n8nTOZi3PhXNatLR4ZTJSixBZ7dbzPGHa/74lxeJJtQKBgQDneyiE4KjBPzSZpKcn\nVqKVvE47YyX7pV6ExWTScSWHNuDs8VQoW5r3eCA80i3amO32v9NkT3fwE+H9Lxww\nmN6il1x1/ciDcqdRFCrPFdx8Mh4BIKMpLdNKMUu1iW0nIV1WUIU7qUOmlgtGLUwW\nbIJ6X4QU09iIELkUgSK8u4YixQKBgQC+Dkg03ysT2iWoU9ztjn4GA01Szbnl1Hs8\nrBzn7sZcwMu8l2v3NNPee7qn2DB36POCAJkAjt2nxBbEQN4/yrGbB4TejFh5eBqc\nX+dU/y32T2jB/GPos0xJe3Tdj+/Oc9ps/Umoysjj91VZyAMG13HeI54Wc6Ox0LUf\n7iG5I912LwKBgQDZEC0jxUOZyvo5JSQ1iFD3llfJ6qSAgEbMvAlaKQ2m6Lgsl/Rx\nz8zWSEf6oKCs/oEOxDynMLnoX8ynzVhi3cbPsp3aavtu/8GUDxRBkl9p+tkV95Po\nlncueGFlPxQjAG909BarpoKwoLy7tthFosULmavSmADRPtU/PATl8/bJfQKBgQCo\nJMCTLkHRTXV1h8R001UBgthdAq+N+z+QfQER3PjXxKY7UoftbGppcnO/3Q98drdA\n88Bpcvv9Wgl+VZmLPIuHCc7uiaIYzT5VzK9ATobeXIDk5qOJk19Rv4y0HIzfzTWY\nqToKwGWc8gwr4z1yRxdxnXdWi7ZuMaSc/DQPtQBQdwKBgFjyzs9HdkhxrqtwccZb\nCfUv1TEMHsQmtitGwFBvKucyE1KCtTPe7I/SUIQlHs06SLYuDJHUNkg6Pl6oYOE+\n3cwXwHMBipcCgbTp/0aLNmTX9H3qDKmokD5AUgJXSo7wNqCAP34qYHrWQe4WpLJb\nJ83OpgL/dhQGYNIq2IqpNR3n\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-h03cl@human-behaviour-recognition.iam.gserviceaccount.com",
+  "client_id": "110525485731075957732",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-h03cl%40human-behaviour-recognition.iam.gserviceaccount.com",
+  "su":"QncqX8k8ajWHyrJL"
+}
